@@ -1,2 +1,5 @@
 # OS_Labs
-OS_labs 
+
+Lviv Polytechnic National University. 
+
+OS Labs 
